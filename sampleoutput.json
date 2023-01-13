@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+           "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jacqueline Alemany",
+            "title": "Trump gets another week to comply with Jan. 6 committee document subpoena - The Washington Post",
+            "description": "The documents were requested as a part of a subpoena issued by the committee on Oct. 21 that directed that Trump testify under oath on or about Nov. 14.",
+            "url": "https://www.washingtonpost.com/national-security/2022/11/04/trump-gets-another-week-comply-with-jan-6-committee-document-subpoena/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MNSERDSDNVKUQ2EDGFSTLKJPQ4.jpg&w=1440",
+            "publishedAt": "2022-11-05T03:15:00Z",
+            "content": "Former president Donald Trump will have an additional week to meet the deadline to turn over documents to the House committee investigating the Jan. 6, 2021, attack on the U.S. Capitol.\r\nWe have rece… [+1913 chars]"
+        },
+       
+      
+        {
+            "source": {
+                "id": null,
+                "name": "Videocardz.com"
+            },
+            "author": null,
+            "title": "AMD confirms RX 7900 XTX is RTX 4080 competitor, FSR3 may be supported by pre-RDNA3 architectures - VideoCardz.com",
+            "description": "AMD Radeon RX 7900 XTX to compete with GeForce RTX 4080 PCWorld has another great interview on a subject of AMD RDNA3 architecture. One of the most common questions after the RDNA3 event ended was why didn’t AMD compare their RX 7900 series with GeForce RTX 4…",
+            "url": "https://videocardz.com/newz/amd-confirms-rx-7900-xtx-is-rtx-4080-competitor-fsr3-may-be-supported-by-pre-rdna3-architectures",
+            "urlToImage": "https://cdn.videocardz.com/1/2022/11/RADEON-RX7900XTX-VS-RTX4080-HERO.jpg",
+            "publishedAt": "2022-11-04T21:55:00Z",
+            "content": "PCWorld has another great interview on a subject of AMD RDNA3 architecture.\r\nOne of the most common questions after the RDNA3 event ended was why didnt AMD compare their RX 7900 series with GeForce R… [+2034 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Edward-Isaac Dovere",
+            "title": "New York Democrats are bracing for stunning Election Day losses, and they already have a fall guy - CNN",
+            "description": "Democratic officials and strategists in New York tell CNN they are bracing for what could be stunning losses in the governor's race and in contests for as many as four US House seats largely in the suburbs.",
+            "url": "https://www.cnn.com/2022/11/04/politics/eric-adams-new-york-crime-midterms/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221104121929-01-hochul-adams-102222.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-04T21:36:00Z",
+            "content": "Democratic officials and strategists in New York tell CNN they are bracing for what could be stunning losses in the governors race and in contests for as many as four US House seats largely in the su… [+13309 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/jon-fingas",
+            "title": "Watch the last total lunar eclipse until 2025 on November 8th - Engadget",
+            "description": "The last total lunar eclipse until 2025 happens on November 8th — here's when and how to watch..",
+            "url": "https://www.engadget.com/how-to-watch-total-lunar-eclipse-november-2022-210431051.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/17aec000-5c79-11ed-be3e-d280ed788ac5",
+            "publishedAt": "2022-11-04T21:06:04Z",
+            "content": "You're about to get your last chance at witnessing a total lunar eclipse for quite some time. NASA has pointed out that the last such eclipse until March 2025 begins in the early morning hours of Nov… [+1721 chars]"
+        }
+    ]
+}
